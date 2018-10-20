@@ -1,0 +1,121 @@
+
+
+/*======================================
+    CHAT BOX STYLES
+======================================= */
+
+.hr-clas {
+    border-top: 1px solid #c5c5c5;
+}
+
+.chat-box-main {
+    max-height:500px;
+    overflow:auto;
+}
+.chat-box-div {
+    border:2px solid #c5c5c5;
+    border-bottom:2px solid #c5c5c5;
+    width: 90%;
+    margin: 0 auto;
+
+
+} 
+.chat-box-head {
+    padding: 10px 15px;
+border-bottom: 2px solid #c5c5c5;
+background: linear-gradient(135deg, #172a74, #21a9af);
+    color: #fff;
+text-align: center;
+
+}
+
+    .chat-box-right {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid #C5C5C5;
+    font-size:12px;
+}
+.chat-box-right:after {
+    top: 100%;
+    right: 10%;
+    border: solid transparent;
+    content: " ";
+    position: absolute;
+    border-top-color: #C5C5C5;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+.chat-box-name-right {
+    color: #354EA0;
+    margin-top: 30px;
+    margin-right: 60px;
+    text-align:right;
+}
+
+.chat-box-name-right img {
+        max-width:40px;
+        border: 2px solid #354EA0;
+    }
+.chat-box-footer {
+    background-color: #D8D8D8;
+padding: 10px;
+}
+
+
+
+.chats {
+    width: 70%;
+    margin-bottom: 6px;
+    border: 1px solid;
+    border-color: #e0e0de;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+        clear: both;
+
+}
+.chats img {
+    width: 50px;
+
+}
+
+
+
+.chats_r{
+
+     width: 70%;
+    margin-bottom: 6px;
+    background-color: #1f8ff7;
+    float: right;
+    border-width: 1px;
+    border-style: solid;
+    border-image: initial;
+    border-color: rgb(224, 224, 222);
+    border-radius: 10px;
+      color: white;
+    padding: 20px;
+        clear: both;
+
+}
+
+    .chat-box-right2 {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-size:12px;
+}
+.chat-box-right2:after {
+    top: 100%;
+    right: 10%;
+    border-top-color: #C5C5C5;
+    border-width: 15px;
+    margin-left: -15px;
+}
