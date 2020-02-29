@@ -6,7 +6,6 @@
  ------------- ------------- ------------- ------------- ------------- ------------- -------------
 ![Test Image 1](https://github.com/ahmedesa/images/blob/master/images/SocilaMedia_3.PNG)
 
-# لوحة التحكم 
 ![Test Image 1](https://github.com/ahmedesa/images/blob/master/images/SocilaMedia_4.PNG)
  ------------- ------------- ------------- ------------- ------------- ------------- -------------
 
